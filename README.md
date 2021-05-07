@@ -1,2 +1,0 @@
-# README
-Teste pesquisador senior
